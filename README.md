@@ -5,14 +5,14 @@ A new Flutter project.
 <table align= "center">
  
  <tr>
-<td><br/><img height="600" src="https://user-images.githubusercontent.com/113705206/215271290-68ce3951-f5d3-4be4-866d-803b70e7d0ad.png"></td>
-<td><br/><img height="600" src="https://user-images.githubusercontent.com/113705206/215271407-5e7aac83-d0c7-4929-b4fe-47fe09a26f3b.png"></td>
-<td><br/><img height="600" src="https://user-images.githubusercontent.com/113705206/215271431-5419d24c-464c-4a76-96b2-e57d1ac65a42.png"></td>
-
+<td><br/><img height="500" src="https://user-images.githubusercontent.com/113705206/215271290-68ce3951-f5d3-4be4-866d-803b70e7d0ad.png"></td>
+<td><br/><img height="500" src="https://user-images.githubusercontent.com/113705206/215271431-5419d24c-464c-4a76-96b2-e57d1ac65a42.png"></td>
 </tr>
   
   
 </table>
+
+## Firebase ve Bloc(pattern) kullanılarak geliştirilmiş not oluşturma uygulamasıdır
 
 <!--
 ## Getting Started
